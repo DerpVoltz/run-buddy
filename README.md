@@ -13,4 +13,6 @@ https://DerpVoltz.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Zane
 
-# Run Buddy Inc.
+#### ©️2019 Run Buddy, Inc
+
+# Run Buddy, Inc
